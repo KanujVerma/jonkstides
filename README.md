@@ -1,6 +1,6 @@
 # Jonkstides
 
-A modern e-commerce storefront for Jonkstides built with Next.js and integrated with Square Catalog.
+A modern e-commerce storefront for sourcing high-quality research peptides, integrated with Square Catalog.
 
 🔗 **Live Demo:** [https://jonkstides.vercel.app/](https://jonkstides.vercel.app/)
 
